@@ -1,4 +1,4 @@
 # Numerical-Analysis
-For fun, I'll write some codes on what I learn in MA 214(Introduction to Numerical Analysis) and put them here.
+For fun, I'll write some codes on what I learn in MA 214(Introduction to Numerical Analysis) and put them here (apart from formula-bank)
 
-### (i) Interpolation Theory
+- [Handwritten notes](https://github.com/jaiisrani/Numerical-Analysis/blob/main/numerical%20analysis%20formulae%202021.pdf)
